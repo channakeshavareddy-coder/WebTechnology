@@ -16,6 +16,21 @@ This repository contains my practical programs, coding exercises as I learn and 
 WebTechnology/
 ├───── HTML/
 |       ├── DOCTYPEDeclaration.html
+|       ├── HTMLBreakElement.html
+|       ├── HTMLParagraph.html
+|       ├── HTMLheadings.html
+|       ├── HTMLhrElement.html
+|       ├── bElement.html
+|       ├── delElement.html
+|       ├── emElement.html
+|       ├── insElement.html
+|       ├── italicElement.html
+|       ├── markElement.html
+|       ├── smallElement.html
+|       ├── strongElement.html
+|       ├── subElement.html
+|       ├── supElement.html
+|       ├── uElement.html
 │       └── index.html
 |
 ├───── CSS/
