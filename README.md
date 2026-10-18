@@ -31,6 +31,8 @@ WebTechnology/
 |       ├── subElement.html
 |       ├── supElement.html
 |       ├── uElement.html
+|       ├── olList.html
+|       ├── olTypeAttribute.html
 │       └── index.html
 |
 ├───── CSS/
