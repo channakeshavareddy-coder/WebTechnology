@@ -33,6 +33,14 @@ WebTechnology/
 |       ├── uElement.html
 |       ├── olList.html
 |       ├── olTypeAttribute.html
+|       ├── ulList.html
+|       ├── absolutePath.html
+|       ├── anchorLinkElement.html
+|       ├── mailto.html
+|       ├── tel.html
+|       ├── relativepath.html
+|       ├── targetAttribute.html
+|       ├── dlList.html
 │       └── index.html
 |
 ├───── CSS/
