@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="example.java">
+        <label for="courses">Courses:</label>
+        <select name="courses"
+                id="courses"
+                size="3">
+            <optgroup label="Programming languages">
+                <option value="Java"">Java</option>
+                <option value="Python" hidden>Python</option>
+                <option value="JavaScript">JavaScript</option>
+                <option value="SQL" disabled>SQl</option>
+            </optgroup>
+            <optgroup label="Tools">
+                <option>Git</option>
+                <option>GitHub</option>
+            </optgroup>
+        </select>
+    </form>
+</body>
+</html>
